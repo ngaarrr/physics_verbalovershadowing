@@ -89,9 +89,8 @@ The simulation generates:
 
 This tool is designed for:
 - Cognitive psychology research on intuitive physics
-- Studies of verbal overshadowing in visual perception
+- Studies of verbal overshadowing in visual perception/problem solving.
 - Educational research on physics learning
-- Human-AI interaction studies in physics prediction tasks
 
 ## Citation
 
